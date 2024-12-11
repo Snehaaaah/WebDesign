@@ -1,0 +1,55 @@
+/* Basic Styling for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0; /* Light gray background */
+    color: #333; /* Dark text */
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for the Heading */
+h1 {
+    color: #4CAF50; /* Green color for the heading */
+    margin-top: 50px; /* Add space above the heading */
+}
+
+/* Styling for the Paragraph */
+p {
+    font-size: 20px; /* Increase font size */
+    color: #555; /* Dark gray text color */
+}
+
+/* Styling the Button */
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    border: none;
+    padding: 15px 32px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049; /* Darker green when hovered */
+/* Styling the Button */
+button {
+    background-color: #4CAF50; /* Green button background */
+    color: white; /* White text */
+    border: none; /* Remove border */
+    padding: 15px 32px; /* Add padding inside the button */
+    text-align: center; /* Center the text inside the button */
+    text-decoration: none; /* Remove underline */
+    display: inline-block;
+    font-size: 16px; /* Make the text larger */
+    cursor: pointer; /* Change the cursor to a pointer */
+    border-radius: 5px; /* Rounded corners */
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #45a049; /* Darker green when hovered */
+}
+
+}
